@@ -68,85 +68,85 @@ The sector exhibits **moderate fragmentation with a bifurcated, tier-concentrate
 
 All repositories are sorted descending by their GitHub stargazers count:
 
-- **[openai/gym](https://github.com/openai/gym)** [![GitHub stars](https://img.shields.io/github/stars/openai/gym?style=social&color=white)](https://github.com/openai/gym/stargazers)  
+- **[openai/gym](https://github.com/openai/gym)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/gym?style=social&color=white)](https://github.com/openai/gym/stargazers)  
   🕹️ The classic standard interface for reinforcement learning environments and robotics benchmarks (maintained for legacy compatibility; succeeded by Gymnasium).
 
-- **[Genesis](https://github.com/Genesis-Embodied-AI/Genesis)** [![GitHub stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?style=social&color=white)](https://github.com/Genesis-Embodied-AI/Genesis/stargazers)  
+- **[Genesis](https://github.com/Genesis-Embodied-AI/Genesis)** [![GitHub_Stars](https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?style=social&color=white)](https://github.com/Genesis-Embodied-AI/Genesis/stargazers)  
   ⚡ Universal physics engine designed for robotics and embodied AI with unified support for rigid bodies, soft bodies, cloth, fluids, and generative simulation.
 
-- **[MuJoCo](https://github.com/google-deepmind/mujoco)** [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social&color=white)](https://github.com/google-deepmind/mujoco/stargazers)  
+- **[MuJoCo](https://github.com/google-deepmind/mujoco)** [![GitHub_Stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social&color=white)](https://github.com/google-deepmind/mujoco/stargazers)  
   🦾 Multi-Joint dynamics with Contact physics engine by Google DeepMind (Apache-2.0). Stable implicit damping for robotics, biomechanics, and scalable reinforcement learning.
 
-- **[PyBullet (bullet3)](https://github.com/bulletphysics/bullet3)** [![GitHub stars](https://img.shields.io/github/stars/bulletphysics/bullet3?style=social&color=white)](https://github.com/bulletphysics/bullet3/stargazers)  
+- **[PyBullet (bullet3)](https://github.com/bulletphysics/bullet3)** [![GitHub_Stars](https://img.shields.io/github/stars/bulletphysics/bullet3?style=social&color=white)](https://github.com/bulletphysics/bullet3/stargazers)  
   🎯 High-performance real-time multiphysics simulation for robotics, VR, and machine learning (Zlib license). Widely used in Ravens, VIMA-BENCH, and CALVIN.
 
-- **[CARLA](https://github.com/carla-simulator/carla)** [![GitHub stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social&color=white)](https://github.com/carla-simulator/carla/stargazers)  
+- **[CARLA](https://github.com/carla-simulator/carla)** [![GitHub_Stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social&color=white)](https://github.com/carla-simulator/carla/stargazers)  
   🚗 Open-source autonomous driving simulator built on Unreal Engine with urban environments, sensor suites (GNSS, LiDAR, cameras), and flexible traffic simulation.
 
-- **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers)  
+- **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers)  
   🏋️ The official community-maintained standard API for reinforcement learning environments by Farama Foundation, providing seamless transitions from classic Gym.
 
-- **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** [![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social&color=white)](https://github.com/isaac-sim/IsaacLab/stargazers)  
+- **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** [![GitHub_Stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social&color=white)](https://github.com/isaac-sim/IsaacLab/stargazers)  
   🚀 Unified, modular framework for robot learning built on NVIDIA Isaac Sim. Delivers GPU-accelerated physics, photorealistic sensor rendering, and massive parallelism for RL and imitation learning.
 
-- **[Webots](https://github.com/cyberbotics/webots)** [![GitHub stars](https://img.shields.io/github/stars/cyberbotics/webots?style=social&color=white)](https://github.com/cyberbotics/webots/stargazers)  
+- **[Webots](https://github.com/cyberbotics/webots)** [![GitHub_Stars](https://img.shields.io/github/stars/cyberbotics/webots?style=social&color=white)](https://github.com/cyberbotics/webots/stargazers)  
   🤖 Complete development environment and open-source robot simulator (Apache-2.0) with an extensive library of robots, sensors, actuators, and cross-platform ROS 2 support.
 
-- **[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/habitat-sim?style=social&color=white)](https://github.com/facebookresearch/habitat-sim/stargazers)  
+- **[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/habitat-sim?style=social&color=white)](https://github.com/facebookresearch/habitat-sim/stargazers)  
   🏡 High-performance 3D simulator for embodied AI research by Meta (MIT). Capable of thousands of FPS for point-goal navigation, social rearrangement, and human-avatar interaction (Habitat 1.0–3.0).
 
-- **[ManiSkill](https://github.com/haosulab/ManiSkill)** [![GitHub stars](https://img.shields.io/github/stars/haosulab/ManiSkill?style=social&color=white)](https://github.com/haosulab/ManiSkill/stargazers)  
+- **[ManiSkill](https://github.com/haosulab/ManiSkill)** [![GitHub_Stars](https://img.shields.io/github/stars/haosulab/ManiSkill?style=social&color=white)](https://github.com/haosulab/ManiSkill/stargazers)  
   🖐️ GPU-parallelized robotics simulation benchmark powered by SAPIEN. Achieves 30,000+ FPS on consumer GPUs with heterogeneous sensor rendering and mobile manipulation tasks.
 
-- **[Brax](https://github.com/google/brax)** [![GitHub stars](https://img.shields.io/github/stars/google/brax?style=social&color=white)](https://github.com/google/brax/stargazers)  
+- **[Brax](https://github.com/google/brax)** [![GitHub_Stars](https://img.shields.io/github/stars/google/brax?style=social&color=white)](https://github.com/google/brax/stargazers)  
   ⚡ Differentiable physics engine written in JAX by Google Research, enabling massively parallel reinforcement learning and trajectory optimization directly on GPU/TPU accelerators.
 
-- **[RoboSuite](https://github.com/ARISE-Initiative/robosuite)** [![GitHub stars](https://img.shields.io/github/stars/ARISE-Initiative/robosuite?style=social&color=white)](https://github.com/ARISE-Initiative/robosuite/stargazers)  
+- **[RoboSuite](https://github.com/ARISE-Initiative/robosuite)** [![GitHub_Stars](https://img.shields.io/github/stars/ARISE-Initiative/robosuite?style=social&color=white)](https://github.com/ARISE-Initiative/robosuite/stargazers)  
   🧩 Modular simulation framework and benchmark for robot learning powered by MuJoCo. Includes standardized manipulation environments, multi-controller abstractions, and photorealistic rendering.
 
-- **[LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)** [![GitHub stars](https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO)](https://github.com/Lifelong-Robot-Learning/LIBERO/stargazers)  
+- **[LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)** [![GitHub_Stars](https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO)](https://github.com/Lifelong-Robot-Learning/LIBERO/stargazers)  
   🔄 Lifelong robot learning benchmark with standardized suites (Spatial, Object, Goal, Long Horizon) built on MuJoCo and RoboSuite to evaluate transfer and continual skill acquisition.
 
-- **[Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium-Robotics?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium-Robotics/stargazers)  
+- **[Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium-Robotics?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium-Robotics/stargazers)  
   🦾 Official Farama Foundation robotics environments including Fetch, Shadow Hand dexterous manipulation, and Franka Emika Panda arms built on MuJoCo.
 
-- **[Meta-World](https://github.com/Farama-Foundation/Metaworld)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Metaworld?style=social&color=white)](https://github.com/Farama-Foundation/Metaworld/stargazers)  
+- **[Meta-World](https://github.com/Farama-Foundation/Metaworld)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/Metaworld?style=social&color=white)](https://github.com/Farama-Foundation/Metaworld/stargazers)  
   🌐 Open-source benchmark for meta-reinforcement learning and multi-task learning consisting of 50 distinct robotic manipulation tasks sharing a unified action space.
 
-- **[RLBench](https://github.com/stepjam/RLBench)** [![GitHub stars](https://img.shields.io/github/stars/stepjam/RLBench?style=social&color=white)](https://github.com/stepjam/RLBench/stargazers)  
+- **[RLBench](https://github.com/stepjam/RLBench)** [![GitHub_Stars](https://img.shields.io/github/stars/stepjam/RLBench?style=social&color=white)](https://github.com/stepjam/RLBench/stargazers)  
   🛠️ Robot learning benchmark with 100+ manipulation tasks built on CoppeliaSim (V-REP) and PyRep, designed for vision-guided reinforcement learning and imitation learning.
 
-- **[AI2-THOR](https://github.com/allenai/ai2thor)** [![GitHub stars](https://img.shields.io/github/stars/allenai/ai2thor?style=social&color=white)](https://github.com/allenai/ai2thor/stargazers)  
+- **[AI2-THOR](https://github.com/allenai/ai2thor)** [![GitHub_Stars](https://img.shields.io/github/stars/allenai/ai2thor?style=social&color=white)](https://github.com/allenai/ai2thor/stargazers)  
   🏠 Near-photorealistic interactive indoor simulator on Unity by the Allen Institute for AI. Supports iTHOR, RoboTHOR, and ProcTHOR-10K with rich physical object affordances.
 
-- **[RoboCasa](https://github.com/robocasa/robocasa)** [![GitHub stars](https://img.shields.io/github/stars/robocasa/robocasa?style=social&color=white)](https://github.com/robocasa/robocasa/stargazers)  
+- **[RoboCasa](https://github.com/robocasa/robocasa)** [![GitHub_Stars](https://img.shields.io/github/stars/robocasa/robocasa?style=social&color=white)](https://github.com/robocasa/robocasa/stargazers)  
   🍳 Large-scale simulation framework for generalist robots in everyday kitchens. Provides 2,500+ kitchen layouts, 365 daily tasks, and thousands of hours of demonstration data with sim-to-real transfer validation.
 
-- **[D4RL](https://github.com/Farama-Foundation/D4RL)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/D4RL?style=social&color=white)](https://github.com/Farama-Foundation/D4RL/stargazers)  
+- **[D4RL](https://github.com/Farama-Foundation/D4RL)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/D4RL?style=social&color=white)](https://github.com/Farama-Foundation/D4RL/stargazers)  
   📊 Datasets for Deep Data-Driven Reinforcement Learning providing standardized benchmarks for offline reinforcement learning in robotics and control.
 
-- **[Gazebo Sim (gz-sim)](https://github.com/gazebosim/gz-sim)** [![GitHub stars](https://img.shields.io/github/stars/gazebosim/gz-sim?style=social&color=white)](https://github.com/gazebosim/gz-sim/stargazers)  
+- **[Gazebo Sim (gz-sim)](https://github.com/gazebosim/gz-sim)** [![GitHub_Stars](https://img.shields.io/github/stars/gazebosim/gz-sim?style=social&color=white)](https://github.com/gazebosim/gz-sim/stargazers)  
   ⚙️ The flagship open-source robotics simulator from Open Robotics with first-class ROS / ROS 2 integration, modular physics engines, and distributed network architecture.
 
-- **[Facebook FAIR AI Habitat / Fairo](https://github.com/facebookresearch/fairo)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/fairo?style=social&color=white)](https://github.com/facebookresearch/fairo/stargazers)  
+- **[Facebook FAIR AI Habitat / Fairo](https://github.com/facebookresearch/fairo)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/fairo?style=social&color=white)](https://github.com/facebookresearch/fairo/stargazers)  
   🔬 Meta FAIR robotics framework providing modular abstractions, real robot controllers, sensor interfaces, and simulation connectors.
 
-- **[SAPIEN](https://github.com/haosulab/SAPIEN)** [![GitHub stars](https://img.shields.io/github/stars/haosulab/SAPIEN?style=social&color=white)](https://github.com/haosulab/SAPIEN/stargazers)  
+- **[SAPIEN](https://github.com/haosulab/SAPIEN)** [![GitHub_Stars](https://img.shields.io/github/stars/haosulab/SAPIEN?style=social&color=white)](https://github.com/haosulab/SAPIEN/stargazers)  
   📐 Realistic and physics-rich simulation platform designed for embodied AI and articulated object manipulation with ray-tracing visual rendering.
 
-- **[iGibson](https://github.com/StanfordVL/iGibson)** [![GitHub stars](https://img.shields.io/github/stars/StanfordVL/iGibson?style=social&color=white)](https://github.com/StanfordVL/iGibson/stargazers)  
+- **[iGibson](https://github.com/StanfordVL/iGibson)** [![GitHub_Stars](https://img.shields.io/github/stars/StanfordVL/iGibson?style=social&color=white)](https://github.com/StanfordVL/iGibson/stargazers)  
   🛋️ Simulation environment developed by Stanford VL for interactive navigation and mobile manipulation in photorealistic homes with continuous rigid body physics.
 
-- **[VirtualHome](https://github.com/xavierpuigf/virtualhome)** [![GitHub stars](https://img.shields.io/github/stars/xavierpuigf/virtualhome?style=social&color=white)](https://github.com/xavierpuigf/virtualhome/stargazers)  
+- **[VirtualHome](https://github.com/xavierpuigf/virtualhome)** [![GitHub_Stars](https://img.shields.io/github/stars/xavierpuigf/virtualhome?style=social&color=white)](https://github.com/xavierpuigf/virtualhome/stargazers)  
   🏘️ Multi-agent household activity simulation platform featuring 2,800+ activity programs for high-level language planning, video synthesis, and task execution.
 
-- **[ThreeDWorld (TDW)](https://github.com/threedworld-mit/tdw)** [![GitHub stars](https://img.shields.io/github/stars/threedworld-mit/tdw?style=social&color=white)](https://github.com/threedworld-mit/tdw/stargazers)  
+- **[ThreeDWorld (TDW)](https://github.com/threedworld-mit/tdw)** [![GitHub_Stars](https://img.shields.io/github/stars/threedworld-mit/tdw?style=social&color=white)](https://github.com/threedworld-mit/tdw/stargazers)  
   🌍 General-purpose virtual world simulation platform by MIT utilizing Unity for photo-real rendering, rigid body mechanics, cloth/soft-body physics, and audio generation.
 
-- **[ProcTHOR](https://github.com/allenai/procthor)** [![GitHub stars](https://img.shields.io/github/stars/allenai/procthor?style=social&color=white)](https://github.com/allenai/procthor/stargazers)  
+- **[ProcTHOR](https://github.com/allenai/procthor)** [![GitHub_Stars](https://img.shields.io/github/stars/allenai/procthor?style=social&color=white)](https://github.com/allenai/procthor/stargazers)  
   🏗️ Large-scale procedural generation framework by Ai2 for generating infinite interactive 3D embodied AI environments across thousands of realistic household scenes.
 
-- **[UnrealZoo Gym](https://github.com/UnrealZoo/unrealzoo-gym)** [![GitHub stars](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&color=white)](https://github.com/UnrealZoo/unrealzoo-gym/stargazers)  
+- **[UnrealZoo Gym](https://github.com/UnrealZoo/unrealzoo-gym)** [![GitHub_Stars](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&color=white)](https://github.com/UnrealZoo/unrealzoo-gym/stargazers)  
   🦁 Large-scale photo-realistic virtual worlds built on Unreal Engine 5 with MuJoCo physics, 3DGS rendering, LiDAR street mapping, and multi-agent MCP runtime workflows.
 
 ---
@@ -156,7 +156,7 @@ All repositories are sorted descending by their GitHub stargazers count:
 1. Fork the repository.
 2. Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Embodied-AI-Environments/README.md).
 3. Ensure all table entries include specific tier pricing, clear free tier limits, and company size/market valuation data.
-4. For open-source additions, ensure the star badge uses `style=social&color=white` and links to the repository's `stargazers` page, with entries sorted descending by star count.
+4. For open-source additions, ensure the Stars_Badge uses `style=social&color=white` and links to the repository's `stargazers` page, with entries sorted descending by Stars_Count.
 5. Submit a pull request with a concise description of the addition or revision.
 
 ---
